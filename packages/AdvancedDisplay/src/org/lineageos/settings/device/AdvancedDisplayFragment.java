@@ -23,7 +23,7 @@ import com.android.settingslib.widget.SettingsBasePreferenceFragment;
 
 import org.lineageos.settings.device.R;
 
-import org.lineageos.internal.util.FileUtils;
+import com.android.internal.util.halcyon.FileUtils;
 
 public class AdvancedDisplayFragment extends SettingsBasePreferenceFragment {
     private mDNIeScenario mmDNIeScenario;
