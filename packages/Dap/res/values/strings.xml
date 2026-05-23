@@ -17,6 +17,6 @@
     <string name="dolby_profile_movie">Movie</string>
     <string name="dolby_profile_music">Music</string>
     <string name="dolby_profile_off">No profile</string>
-    <string name="dolby_profile_spacial_audio">Spacial audio</string>
+    <string name="dolby_profile_spacial_audio">Spatial Audio</string>
     <string name="dolby_profile_voice">Voice</string>
 </resources>
